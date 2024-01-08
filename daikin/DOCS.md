@@ -18,8 +18,8 @@ See instructions at https://github.com/SmartHomeIntegrationTech/MQTTServices-Dai
 
 In short:
 
-1. download daikin-0.0.4.jar to **your own computer**
-2. start GUI with `java -jar daikin-0.0.4.jar` 
+1. download daikin-0.0.5.jar to **your own computer**
+2. start GUI with `java -jar daikin-0.0.5.jar` 
 3. configure Daikin address, MQTT address and inputs and outputs.
 4. save data to PollingSettings.json file
 
